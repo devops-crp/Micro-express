@@ -37,3 +37,5 @@ All the microservices of the architecture, which include two business services, 
 ## **Specification**
 
 The API and pub/sub event specifications, and the datamodel of each microservice. To know how to create/update the specifications, see: [specification](specification).
+
+https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28
